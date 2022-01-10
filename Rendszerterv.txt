@@ -42,3 +42,37 @@ A játék az eredeti szabályok szerint megy, a kő üti az ollót, az olló üt
 
         9. Karbantartási terv
         Az alkalmazás bővítési lehetőségét fenntartjuk. A későbbiekben 2 játékos mód is hozzáadható.
+
+        10. Elvégzett tesztek
+        10.1 Hibás tesztek
+        	- Játék oldal nyertes megjelenítésének tesztje.
+        	-- Az alkalmazás hibásan jelenítette meg, a "You win" opciókat.
+        	-- A hiba ki lett javítva.
+
+        	- Játék oldal nyertes megjelenítésének tesztje.
+        	-- Az alkalmazás hibásan jelenítette meg, a "You win" és a "It's a tie" opciókat.
+        	-- A hiba ki lett javítva.
+
+        	- Pontszámláló tesztje
+        	-- Az alkalmazásban nem futott le a játékos pontszámának növelése.
+        	-- A hiba ki lett javítva.
+
+        	- Navigáló gombok tesztelése.
+        	-- Hibás oldalhivatkozást tartalmaztak ezért nem működtek megfelelően.
+        	-- A hiba ki lett javítva.
+
+        	- Játék oldalon, a "kő" gomb tesztje.
+        	-- Az alkalmazás hibásan értékelte ki a gomb funkcióját.
+        	-- A hiba ki lett javítva.
+
+        	- Pontszámláló tesztje
+        	-- Az alkalmazásban nem futott le a gép ponzszámának növelése.
+        	-- A hiba ki lett javítva.
+
+        	- Az olló funkció tesztje
+        	-- Az alkalmazásban az olló funckió nem jó választásra hivatkozott.
+        	-- A hiba ki lett javítva.
+
+        	- A papír funkció tesztje
+        	-- Az alkalmazásban a papír funckió az ollóra hivatkozott.
+        	-- A hiba ki lett javítva.
